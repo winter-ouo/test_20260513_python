@@ -1,0 +1,4 @@
+Product,Stock,Value,Discount,Hot,Low
+A,165.0,4950.0,27.0,False,True
+B,215.0,2150.0,8.0,True,False
+C,185.0,3700.0,19.0,False,False
